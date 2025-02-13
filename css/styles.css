@@ -832,6 +832,10 @@ button {
 
 }
 
+.footer-icons-menu {
+    fill: #f4f4fd;
+}
+
 .footer-icons-item-menu {
     width: 40px;
     height: 40px;
