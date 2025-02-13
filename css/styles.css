@@ -783,7 +783,7 @@ button {
 
 .address-menu {
     font-style: normal;
-    margin-top: auto;
+    margin-top: 168px;
     margin-bottom: 48px;
 }
 
@@ -828,6 +828,7 @@ button {
     display: flex;
     align-items: center;
     gap: 40px;
+
 }
 
 .footer-icons-item-menu {
