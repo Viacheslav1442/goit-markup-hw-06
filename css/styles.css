@@ -85,7 +85,6 @@ button {
 /* header */
 
 .header {
-    display: flex;
     border-bottom: 1px solid #e7e9fc;
     box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
         0px 1px 1px rgba(46, 47, 66, 0.16),
@@ -1228,6 +1227,7 @@ button {
     }
 
     .footer-logo {
+        max-width: 768px;
         width: calc((100% - 24px) / 2);
         margin-left: 108px;
         margin-right: 24px;
