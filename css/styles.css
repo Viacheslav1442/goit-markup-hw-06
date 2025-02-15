@@ -1229,12 +1229,14 @@ button {
 
     .footer-logo {
         width: calc((100% - 24px) / 2);
-        margin: 0 24px 0 0;
+        margin-left: 108px;
+        margin-right: 24px;
         margin-bottom: 72px;
     }
 
     .container-subscribe {
         margin: 0;
+        margin-left: 108px;
     }
 
     .modal {
